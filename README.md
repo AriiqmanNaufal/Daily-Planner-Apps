@@ -3,6 +3,7 @@
 A simple and user-friendly mobile application developed in Kotlin with XML layout design. This app helps users plan and organize their daily tasks efficiently. All data is securely stored and managed using Firebase Realtime Database or Firebase Firestore.
 
 🚀 Features
+
 📝 Add, edit, and delete daily tasks
 
 ⏰ Set time and date for tasks
@@ -14,6 +15,7 @@ A simple and user-friendly mobile application developed in Kotlin with XML layou
 📊 Clean and intuitive UI with XML layout
 
 🛠️ Tech Stack
+
 Language: Kotlin
 
 UI Design: XML
