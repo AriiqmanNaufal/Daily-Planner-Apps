@@ -1,4 +1,5 @@
 📅 Daily Planner App
+
 A simple and user-friendly mobile application developed in Kotlin with XML layout design. This app helps users plan and organize their daily tasks efficiently. All data is securely stored and managed using Firebase Realtime Database or Firebase Firestore.
 
 🚀 Features
